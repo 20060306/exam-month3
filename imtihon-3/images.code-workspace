@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "images"
+		},
+		{
+			"path": "js"
+		},
+		{
+			"path": "node_modules"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "images",
+		"git.ignoreLimitWarning": true
+	}
+}
